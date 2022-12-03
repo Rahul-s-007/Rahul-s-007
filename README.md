@@ -38,6 +38,10 @@
 
 
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kushal0409&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0409)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-s-007&langs_count=5&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 **Rahul-s-007/Rahul-s-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
