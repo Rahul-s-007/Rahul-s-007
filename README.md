@@ -1,10 +1,14 @@
-### Hi there 👋
+<h2 align="center">
+    Welcome to Rahul's Profile 👋
+</h2>
 
 ![Profile views](https://gpvc.arturio.dev/Rahul-s-007)
 
+### I am a 2nd Year CSE Student at BITS Pilani Dubai Campus and am interested in Competetive Programming, DSA and Developing Software Technologies.
+
+
 ## 🛠️ Skills and Technologies
 
-![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
@@ -26,6 +30,9 @@
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
 
+
+## 🙋‍♂️ Connect with me
+<a href="https://www.linkedin.com/in/rahul-sumbly/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--
 **Rahul-s-007/Rahul-s-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
