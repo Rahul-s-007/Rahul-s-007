@@ -29,15 +29,18 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 
-## 📊 My GitHub Statistics
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-s-007&count_private=true&theme=radical)
 
 ## 🙋‍♂️ Connect with me
 <a href="https://www.linkedin.com/in/rahul-sumbly/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
+
 <!--
+
+## 📊 My GitHub Statistics
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-s-007&count_private=true&theme=radical)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kushal0409&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0409)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-s-007&langs_count=5&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
