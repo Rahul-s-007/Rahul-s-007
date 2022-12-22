@@ -33,7 +33,8 @@
 ## 🙋‍♂️ Connect with me
 <a href="https://www.linkedin.com/in/rahul-sumbly/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
+## 📊 My GitHub Statistics
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-s-007&count_private=true&theme=radical)
 
 <!--
 
