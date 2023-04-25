@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 
+![](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ## 🙋‍♂️ Connect with me
 <p align="left">
