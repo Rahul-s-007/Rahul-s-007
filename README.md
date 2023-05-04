@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Rahul-s-007)
 
-### I am a 2nd Year CSE Student at BITS Pilani Dubai Campus and am interested in Competetive Programming, DSA and Developing Software Technologies.
+### I am a 2nd Year CSE Student at BITS Pilani Dubai Campus and am interested in Competitive Programming, DSA and Developing Software Technologies.
 
 
 ## 🛠️ Skills and Technologies
