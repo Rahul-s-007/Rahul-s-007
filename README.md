@@ -2,8 +2,8 @@
     Welcome to Rahul's Profile 👋
 </h2>
 
-![Profile views](https://gpvc.arturio.dev/Rahul-s-007)
-
+<!-- ![Profile views](https://gpvc.arturio.dev/Rahul-s-007) -->
+![](https://komarev.com/ghpvc/?username=Rahul-s-007&color=brightgreen)
 ### I am a 2nd Year CSE Student at BITS Pilani Dubai Campus and am interested in Competitive Programming, DSA and Developing Software Technologies.
 
 
