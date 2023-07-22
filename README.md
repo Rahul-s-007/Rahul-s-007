@@ -9,21 +9,29 @@
 
 ## 🛠️ Skills and Technologies
 
-![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+
+![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+
+![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+![](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
+
+![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000)
 
-![](https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
-![](https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC)
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
@@ -32,7 +40,6 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 
-![](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ## 🙋‍♂️ Connect with me
 <p align="left">
