@@ -4,7 +4,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Rahul-s-007) -->
 ![](https://komarev.com/ghpvc/?username=Rahul-s-007&color=brightgreen)
-### I am a 3rd Year CSE Student at BITS Pilani Dubai Campus and am interested in Competitive Programming, DSA and Developing Software Technologies.
+### I am a 4th Year CSE Student at BITS Pilani and am interested in Competitive Programming, DSA and Developing Software Technologies.
 
 
 ## 🛠️ Skills and Technologies
