@@ -4,8 +4,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Rahul-s-007) -->
 ![](https://komarev.com/ghpvc/?username=Rahul-s-007&color=brightgreen)
-### I am a 4th Year CSE Student at BITS Pilani and am interested in Competitive Programming, DSA and Developing Software Technologies.
-
+### Working as a Security AI Engineer @ Deriv
 
 ## 🛠️ Skills and Technologies
 
