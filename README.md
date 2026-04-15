@@ -51,11 +51,13 @@
 <a href="https://www.hackerrank.com/rahulrtg7703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulrtg7703" height="30" width="40" /></a>
 </p>
 
+<!--
 ## 📊 My GitHub Statistics
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-s-007&count_private=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-s-007&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+-->
 
 
 
