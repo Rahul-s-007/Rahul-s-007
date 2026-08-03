@@ -23,16 +23,9 @@
 - 🕵️ **Fraud Detection** — payment, trade, and behavioral fraud detection at scale
 - 🧠 **ML + LLM Systems** — robust, scalable LLM integrations with strong safety guardrails
 
-### Featured projects
+### Certifications
 
-| Project | What it does | Impact |
-|---|---|---|
-| **Next-Gen AI SOC** | ML + LLM-driven log analysis and behavior baselining | 300% more log source coverage |
-| **AI L1 SOC Analyst** | 24/7 autonomous agent running custom security playbooks | 1000h+ saved / month, 80% lower MTTA |
-| **Omnitrix** | No-code platform for building and deploying AI agents | 1-click agent deployment |
-| **Sade AI Pentester** | Automated adversarial testing framework for AI agents | 100% of agent pentesting automated |
-| **MCP-Pentester** | Distributed multi-agent system for vulnerability assessment | 90% faster recon and discovery |
-| **Fraud Detection Systems** | No-trade, short-trade, and payment fraud detection | 65% more cases captured |
+- Google Cloud — Professional Cloud Architect
 
 ### Recent wins
 
@@ -42,9 +35,5 @@
 - 🇦🇪 UAE Rank 1 / Global 48 — HackerOne AI Red Teaming CTF 2025
 - 🌍 Global Rank 25 — Singapore Government AI CTF 2025
 - 🏆 UAE Winner — NASA Space Apps Challenge 2023
-
-### Certifications
-
-- Google Cloud — Professional Cloud Architect
 
 <p align="center"><sub>More on <a href="https://rahul.sumbly.tech">rahul.sumbly.tech</a></sub></p>
